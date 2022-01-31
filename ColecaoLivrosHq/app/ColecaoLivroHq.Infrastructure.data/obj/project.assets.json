@@ -8,25 +8,27 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\cbyk-dev\\.nuget\\packages\\": {},
+    "C:\\Users\\rodri\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\ProjetosFinantec\\Github\\ApiColecaoLivroHQ\\ColecaoLivrosHq\\app\\ColecaoLivroHq.Infrastructure.data\\ColecaoLivroHq.Infrastructure.data.csproj",
+      "projectUniqueName": "D:\\ProjetosRodrigo\\ApiColecaoLivroHQ\\ColecaoLivrosHq\\app\\ColecaoLivroHq.Infrastructure.data\\ColecaoLivroHq.Infrastructure.data.csproj",
       "projectName": "ColecaoLivroHq.Infrastructure.data",
-      "projectPath": "C:\\ProjetosFinantec\\Github\\ApiColecaoLivroHQ\\ColecaoLivrosHq\\app\\ColecaoLivroHq.Infrastructure.data\\ColecaoLivroHq.Infrastructure.data.csproj",
-      "packagesPath": "C:\\Users\\cbyk-dev\\.nuget\\packages\\",
-      "outputPath": "C:\\ProjetosFinantec\\Github\\ApiColecaoLivroHQ\\ColecaoLivrosHq\\app\\ColecaoLivroHq.Infrastructure.data\\obj\\",
+      "projectPath": "D:\\ProjetosRodrigo\\ApiColecaoLivroHQ\\ColecaoLivrosHq\\app\\ColecaoLivroHq.Infrastructure.data\\ColecaoLivroHq.Infrastructure.data.csproj",
+      "packagesPath": "C:\\Users\\rodri\\.nuget\\packages\\",
+      "outputPath": "D:\\ProjetosRodrigo\\ApiColecaoLivroHQ\\ColecaoLivrosHq\\app\\ColecaoLivroHq.Infrastructure.data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\cbyk-dev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\rodri\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -68,7 +70,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

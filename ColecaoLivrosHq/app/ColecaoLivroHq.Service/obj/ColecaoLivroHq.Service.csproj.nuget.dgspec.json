@@ -1,24 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ProjetosFinantec\\Github\\ApiColecaoLivroHQ\\ColecaoLivrosHq\\app\\ColecaoLivroHq.Service\\ColecaoLivroHq.Service.csproj": {}
+    "D:\\ProjetosRodrigo\\ApiColecaoLivroHQ\\ColecaoLivrosHq\\app\\ColecaoLivroHq.Service\\ColecaoLivroHq.Service.csproj": {}
   },
   "projects": {
-    "C:\\ProjetosFinantec\\Github\\ApiColecaoLivroHQ\\ColecaoLivrosHq\\app\\ColecaoLivroHq.Service\\ColecaoLivroHq.Service.csproj": {
+    "D:\\ProjetosRodrigo\\ApiColecaoLivroHQ\\ColecaoLivrosHq\\app\\ColecaoLivroHq.Service\\ColecaoLivroHq.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ProjetosFinantec\\Github\\ApiColecaoLivroHQ\\ColecaoLivrosHq\\app\\ColecaoLivroHq.Service\\ColecaoLivroHq.Service.csproj",
+        "projectUniqueName": "D:\\ProjetosRodrigo\\ApiColecaoLivroHQ\\ColecaoLivrosHq\\app\\ColecaoLivroHq.Service\\ColecaoLivroHq.Service.csproj",
         "projectName": "ColecaoLivroHq.Service",
-        "projectPath": "C:\\ProjetosFinantec\\Github\\ApiColecaoLivroHQ\\ColecaoLivrosHq\\app\\ColecaoLivroHq.Service\\ColecaoLivroHq.Service.csproj",
-        "packagesPath": "C:\\Users\\cbyk-dev\\.nuget\\packages\\",
-        "outputPath": "C:\\ProjetosFinantec\\Github\\ApiColecaoLivroHQ\\ColecaoLivrosHq\\app\\ColecaoLivroHq.Service\\obj\\",
+        "projectPath": "D:\\ProjetosRodrigo\\ApiColecaoLivroHQ\\ColecaoLivrosHq\\app\\ColecaoLivroHq.Service\\ColecaoLivroHq.Service.csproj",
+        "packagesPath": "C:\\Users\\rodri\\.nuget\\packages\\",
+        "outputPath": "D:\\ProjetosRodrigo\\ApiColecaoLivroHQ\\ColecaoLivrosHq\\app\\ColecaoLivroHq.Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\cbyk-dev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\rodri\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -60,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "U4KVh7xy+Dv3ngtagqVvMKJw0x5NjZWZcyRnND2UPtx2N02HkYnWv01LU+t6R9Tn4GOeXGt5Gr7g+0mrKFhaVA==",
+  "dgSpecHash": "M5LiUnn8A/frRog65RKBKGOkzakE/yps4YmGVwB0b9a/4TGKZQHzHCIWkGGqgJOXgbkV2RV1lsNg1OWYEiVF7w==",
   "success": true,
-  "projectFilePath": "C:\\ProjetosFinantec\\Github\\ApiColecaoLivroHQ\\ColecaoLivrosHq\\app\\ColecaoLivroHq.Infrastructure.data\\ColecaoLivroHq.Infrastructure.data.csproj",
+  "projectFilePath": "D:\\ProjetosRodrigo\\ApiColecaoLivroHQ\\ColecaoLivrosHq\\app\\ColecaoLivroHq.Infrastructure.data\\ColecaoLivroHq.Infrastructure.data.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
